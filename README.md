@@ -1,3 +1,3 @@
 # TI Kursus Data
 
-[TI 3 loeng töö](https://colab.research.google.com/github/matikukk/ti_kursus_data/TI3_genereerimine.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matikukk/tai_avaandmed/blob/main/TI3_genereerimine.ipynb)
